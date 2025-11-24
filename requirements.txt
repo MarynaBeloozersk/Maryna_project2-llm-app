@@ -1,0 +1,4 @@
+streamlit
+pymupdf
+docx2txt
+beautifulsoup4
