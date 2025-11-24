@@ -11,6 +11,7 @@ This Streamlit application extracts abbreviations (ABBR → Full Term) from uplo
 It uses pure Python text processing (no LLM model).
 ### Run locally:
 streamlit run Maryna_Project2_Q3_cloud.py
+
 ---
 
 ## **Question 4 – Document Q&A with Gemini 2.0 Flash**
