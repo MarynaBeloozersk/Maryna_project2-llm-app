@@ -1,5 +1,19 @@
 # **Project 2 – Streamlit Applications (Q3 and Q4)**
 
+## Apps Included
+
+### 1. Abbreviation Extraction App
+Extracts abbreviation–definition pairs from uploaded documents (TXT, PDF, DOCX, HTML).
+
+Run with:
+streamlit run abbreviation_extractor_app.py
+
+### 2. Document Q&A LLM App
+Allows users to upload a document and ask questions using Google's Gemini 2.0 Flash model.
+
+Run with:
+streamlit run document_qa_llm_app.py
+
 This repository contains two Python/Streamlit applications created for **Project 2**.
 ---
 ## **Question 3 – Abbreviation Extraction App**
