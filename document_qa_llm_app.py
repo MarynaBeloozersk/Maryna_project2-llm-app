@@ -11,7 +11,7 @@ This Streamlit application allows a user to:
 How to run the app:
 
 1) Install required Python packages:
-   pip install streamlit pymupdf docx2txt beautifulsoup4 google-genai
+   pip install -r requirements.txt
 
 2) Get a free Gemini API key from:
    https://ai.google.dev/gemini-api
